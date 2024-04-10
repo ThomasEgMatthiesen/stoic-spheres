@@ -3,7 +3,7 @@
 ## Input from Arduino
 ![Visualisation of volume-interaction](images/arduino-in.png)
 
-## 18 looping tracks
+## 18 looping tracks (instruments and soundscapes)
 ![Visualisation of volume-interaction](images/tracks.png)
 
 ## Random narration from 'The Discourses' by Epictetus
