@@ -10,4 +10,4 @@
 ![Visualisation of volume-interaction](images/narrator.png)
 
 ## Channel volume and panning
-![Visualisation of volume-interaction](images/narrator.png)
+![Visualisation of volume-interaction](images/channel-vol-pan.png)
