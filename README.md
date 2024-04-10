@@ -5,6 +5,8 @@ The artwork's functionality revolves around user interaction with the wooden bal
 
 The Arduino board receives values from the resistors, which are then processed by MAX 8. Here, analog inputs are converted to percentages, and digital inputs are temporally verified. This information determines whether a ball is covering a resistor or casting a shadow, adjusting the audio output accordingly. The sound undergoes reverberation before reaching the output, providing a coherent auditory experience.
 
+[See a demonstration of the artwork in use here.](https://www.thomaseg.dk/)
+
 ## User interface
 ![Visualisation of volume-interaction](images/user-interface.png)
 
