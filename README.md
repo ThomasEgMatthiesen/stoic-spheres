@@ -1,6 +1,6 @@
 # Stoic Spheres
 
-## Input from Arduino
+## Input from Arduino / user interface
 ![Visualisation of volume-interaction](images/arduino-in.png)
 
 ## 18 looping tracks (instruments and soundscapes)
